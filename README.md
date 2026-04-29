@@ -36,9 +36,12 @@ Aplikasi ini menyediakan informasi wisata seperti deskripsi, kategori, jarak dar
 
 ---
 
-## 👨‍💻 Author
-
-- Wahyu
+## 👨‍💻 kelompok
+1. Naehati Zullaikha TI1024007
+2. Nova Tivany Zahro TI1024008
+3. Gilang Muhamad Arif TI1024016
+4. Faiq Khusnudin TI1024014
+5. Tri Wahyudi TI1024025
 
 ---
 
