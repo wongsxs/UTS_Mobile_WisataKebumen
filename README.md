@@ -19,7 +19,7 @@ Aplikasi ini menyediakan informasi wisata seperti deskripsi, kategori, jarak dar
 
 ## 🚀 Cara Install
 
-1. Clone repository ini: https://github.com/wongsxs/WisataKebumen
+1. Clone repository ini: https://github.com/wongsxs/UTS_Mobile_WisataKebumen
 2. Buka project di Android Studio
 3. Tunggu proses Gradle selesai
 4. Jalankan aplikasi di emulator / device
